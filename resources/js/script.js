@@ -197,7 +197,7 @@ console.log(
 // });
 
 console.log(
-  '---/// Implementing a Sticky Navigation: The Scroll Event  ///---'
+  '---/// Implementing a Sticky Navigation: Intersection Observer API  ///---'
 );
 
 // Sticky navigation: Intersection Observer API
